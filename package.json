@@ -1,0 +1,12 @@
+{
+  "name": "p5js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy:assets": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
